@@ -1,0 +1,5 @@
+# generated automatically with pipreqs
+
+pandas==1.4.0
+plotly==5.5.0
+statsmodels==0.13.1
